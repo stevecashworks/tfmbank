@@ -1,6 +1,6 @@
 import styled from 'styled-components';
 import Card from './Card'
-import responsive from '../../../../responsive.ts'
+import responsive from '../../../../responsive.js'
 const Con=styled.div`
  width:100%;
  height: 600px;
