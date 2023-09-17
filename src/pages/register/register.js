@@ -371,7 +371,7 @@ return(
             <Btn  onClick={()=>{navigate("/login")}}>Login</Btn>
 
         </BtnsCon>
-        <MenuIconContainer onClick={()=>{setMenuOpen(!menuOpen)}>
+        <MenuIconContainer onClick={()=>{setMenuOpen(!menuOpen)}}>
             <MenuIcon style={{fontSize:"24px"}}/>
         </MenuIconContainer>
     </Header>
