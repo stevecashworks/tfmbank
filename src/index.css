@@ -1,0 +1,24 @@
+body {
+  margin: 0;
+ font-family:'Nunito sans',sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  overflow-x:hidden;
+  scroll-behavior:smooth;
+  width:100%;
+  overflow-x: hidden;
+}
+:root{
+  --rad1:30% 70% 70% 30% / 30% 30% 70% 70% ;
+  --rad2:30% 70% 70% 30% / 30% 54% 46% 70% ;
+  --rad3:82% 18% 70% 30% / 30% 54% 46% 70% ;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+    color:rgb(28, 145, 255);
+}
+:root{
+  --fancy-border:50% 50% 0% 100% / 100% 23% 77% 0% ;
+}

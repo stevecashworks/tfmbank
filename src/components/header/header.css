@@ -1,0 +1,14 @@
+#about-link{
+    align-items:center;
+    position:relative;
+
+
+}
+.dropDown{
+    position:absolute;
+    background-color: white;
+    bottom:-80px;
+    z-index:2;
+    width:160px
+
+}
